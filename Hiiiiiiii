@@ -89,7 +89,7 @@ Tab3:AddButton({
   	end    
 })
 
-Tab3:AddLabel("Adopt M3")
+Tab3:AddLabel("Adopt Me")
 
 Tab3:AddButton({
 	Name = "IceHub Adopt Me",
@@ -262,7 +262,7 @@ Tab3:AddButton({
 
 Tab1:AddLabel("Made By Shan")
 Tab1:AddLabel("Helper Is Nova")
-Tab1:AddLabel("Quote Of The Day "Stop Forcing People To Like And Sub, Like And Sub If You Agree"")
+Tab1:AddLabel("Quote Of The Day: Stop Forcing People To Like And Sub, Like And Sub If You Agree")
 Tab1:AddLabel("Lunar X V2")
 
 -- Scripts
